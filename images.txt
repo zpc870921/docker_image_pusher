@@ -1,2 +1,2 @@
 nginx
-debezium/server:2.7.0.Final
+debezium/server:2.7.3.Final
