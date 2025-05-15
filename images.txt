@@ -1,4 +1,3 @@
 nginx
 debezium/server:2.7.3.Final
-debezium/server:2.7
 justsong/one-api
