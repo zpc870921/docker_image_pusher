@@ -2,4 +2,4 @@ nginx
 debezium/server:2.7.3.Final
 justsong/one-api
 minio/minio
-jenkins/jenkins
+jenkins/jenkins:lts-jdk17
