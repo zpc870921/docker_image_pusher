@@ -3,3 +3,4 @@ debezium/server:2.7.3.Final
 justsong/one-api
 minio/minio
 jenkins/jenkins:lts-jdk17
+loicsharma/baget
