@@ -5,3 +5,4 @@ minio/minio
 jenkins/jenkins:lts-jdk17
 loicsharma/baget
 mcr.microsoft.com/dotnet/aspnet:8.0
+portainer/portainer
