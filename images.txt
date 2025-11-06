@@ -9,3 +9,4 @@ portainer/portainer
 mongo:latest
 qdrant/qdrant
 justsong/one-api
+neo4j
