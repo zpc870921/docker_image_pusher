@@ -12,6 +12,6 @@ justsong/one-api
 neo4j
 datalust/seq
 docker.io/library/python:3.9-slim
-bitnami/zookeeper
-bitnami/kafka
+zookeeper:3.8
+bitnami/kafka:3.4
  
