@@ -7,6 +7,5 @@ mongo:latest
 qdrant/qdrant
 neo4j
 datalust/seq
-zookeeper:3.8
-bitnami/kafka:3.4
- 
+confluentinc/cp-zookeeper:7.5.0
+confluentinc/cp-kafka:7.5.0
