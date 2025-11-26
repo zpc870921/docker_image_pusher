@@ -2,16 +2,11 @@ nginx
 debezium/server:2.7.3.Final
 justsong/one-api
 minio/minio
-jenkins/jenkins:lts-jdk17
-loicsharma/baget
 mcr.microsoft.com/dotnet/aspnet:8.0
-portainer/portainer
 mongo:latest
 qdrant/qdrant
-justsong/one-api
 neo4j
 datalust/seq
-docker.io/library/python:3.9-slim
 zookeeper:3.8
 bitnami/kafka:3.4
  
