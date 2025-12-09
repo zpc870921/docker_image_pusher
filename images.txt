@@ -9,3 +9,5 @@ neo4j
 datalust/seq
 confluentinc/cp-zookeeper:7.5.0
 confluentinc/cp-kafka:7.5.0
+zookeeper:3.8
+wurstmeister/kafka:2.13-2.8.1
