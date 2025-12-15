@@ -1,13 +1,1 @@
-nginx
-debezium/server:2.7.3.Final
-justsong/one-api
-minio/minio
-mcr.microsoft.com/dotnet/aspnet:8.0
-mongo:latest
-qdrant/qdrant
-neo4j
-datalust/seq
-confluentinc/cp-zookeeper:7.5.0
-confluentinc/cp-kafka:7.5.0
-zookeeper:3.8
-wurstmeister/kafka:2.13-2.8.1
+ elasticsearch:7.10.2
