@@ -1,2 +1,2 @@
-elasticsearch:7.10.2
-kibana:7.10.2
+elasticsearch:7.10.1
+kibana:7.10.1
