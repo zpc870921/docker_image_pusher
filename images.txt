@@ -1,1 +1,1 @@
-eclipse-mosquitto:latest
+zlmediakit/zlmediakit:latest
