@@ -1,1 +1,1 @@
-zlmediakit/zlmediakit:master
+confluentinc/cp-kafka:7.6.1
