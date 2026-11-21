@@ -1,1 +1,1 @@
-rabbitmq:4.0-management
+quay.io/debezium/connect:3.6
